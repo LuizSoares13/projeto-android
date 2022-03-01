@@ -66,11 +66,11 @@ header > h1 {
     
 }
 
-header p {
+header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: var(--cor6);
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
 }
 
